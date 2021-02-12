@@ -1,0 +1,3 @@
+export GIT_EDITOR=vim
+
+export PIP_REQUIRE_VIRTUALENV=1
