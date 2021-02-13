@@ -10,5 +10,6 @@ alias k='kubectl'
 alias kg='kubectl get'
 
 alias d='docker'
+alias dc='docker-compose'
 
 alias g='git'
